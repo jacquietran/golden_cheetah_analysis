@@ -1,0 +1,3 @@
+# Documentation
+
+[**Resources**](/resources.md)
